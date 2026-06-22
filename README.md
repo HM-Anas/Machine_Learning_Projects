@@ -19,4 +19,4 @@ This repository contains machine learning projects implemented using Python and 
 
 ## Author
 Anas Jamshed
-MS Computer Science 
+MS (Computer Science)
