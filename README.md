@@ -7,7 +7,7 @@ This repository contains machine learning projects implemented using Python and 
 - Multiple Regression
 - K-Means Clustering
 - Random Forest Classification
-- PCA
+- PCA with SVM
 - Model Evaluation
 
 ## Technologies
@@ -19,4 +19,4 @@ This repository contains machine learning projects implemented using Python and 
 
 ## Author
 Anas Jamshed
-MS Computer Science (AI)
+MS Computer Science 
